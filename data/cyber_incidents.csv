@@ -1,0 +1,21 @@
+id,category,severity,reported_date,status,resolved_date
+1,Phishing,High,2025-12-01,Open,Na
+2,Malware,Medium,2025-12-02,Resolved,2025-12-08
+3,Ransomware,Critical,2025-12-03,In Progress,
+4,Phishing,High,2025-12-03,Open,
+5,Malware,Low,2025-12-05,Resolved,2025-12-10
+6,DDoS,Critical,2025-12-05,In Progress,
+7,Ransomware,High,2025-12-06,Open,
+8,Phishing,Medium,2025-12-07,Resolved,2025-12-12
+9,Malware,Critical,2025-12-08,In Progress,
+10,DDoS,High,2025-12-09,Open,
+11,Ransomware,Medium,2025-12-10,Resolved,2025-12-15
+12,Phishing,Critical,2025-12-11,In Progress,
+13,Malware,High,2025-12-12,Open,
+14,DDoS,Medium,2025-12-13,Resolved,2025-12-18
+15,Ransomware,Critical,2025-12-14,In Progress,
+16,Phishing,High,2025-12-15,Open,
+17,Malware,Low,2025-12-16,Resolved,2025-12-20
+18,DDoS,Critical,2025-12-17,In Progress,
+19,Ransomware,High,2025-12-18,Open,
+20,Phishing,Medium,2025-12-19,Resolved,2025-12-24

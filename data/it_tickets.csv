@@ -1,0 +1,21 @@
+id,category,staff,status,opened_date,closed_date
+1,Printer,Alice,Resolved,2025-12-01,2025-12-02
+2,Email,Bob,Open,2025-12-02,2026-12-02
+3,Laptop,Charlie,In Progress,2025-12-03,2025-12-05
+4,VPN,Dave,Resolved,2025-12-01,2025-12-02
+5,Software,Eve,Open,2025-12-04,2025-12-02
+6,Network,Frank,Resolved,2025-12-03,2025-12-04
+7,Hardware,Grace,In Progress,2025-12-05,2026-12-02
+8,Database,Hank,Resolved,2025-12-02,2025-12-03
+9,Security,Ivy,Open,2025-12-06,2026-12-02
+10,Cloud,Ivy,Resolved,2025-12-04,2025-12-05
+11,Backup,Ivy,In Progress,2025-12-07,2026-12-02
+12,Mobile,Jack,Resolved,2025-12-05,2025-12-06
+13,Website,Kate,Open,2025-12-08,2026-12-06
+14,Access,Liam,Resolved,2025-12-06,2025-12-07
+15,Performance,Mia,In Progress,2025-12-09,2026-12-06
+16,Email,Nina,Resolved,2025-12-07,2025-12-08
+17,Printer,Owen,Open,2025-12-10,2026-12-08
+18,Network,Paul,Resolved,2025-12-08,2025-12-09
+19,Software,Quinn,In Progress,2025-12-11,2026-12-08
+20,Database,Rachel,Resolved,2025-12-09,2025-12-10
