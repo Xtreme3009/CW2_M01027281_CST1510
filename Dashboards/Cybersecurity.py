@@ -42,7 +42,6 @@ def dashboard():
     prev_mtime = st.session_state.get("cyber_csv_mtime")
     if mtime and (prev_mtime is None or mtime > prev_mtime):
         df_csv = pd.read_csv(csv_path)
-        st.write("CSV columns detected:", df_csv.columns.tolist())
 
         # Normalize id column (accept 'id' or 'incident_id')
         if 'incident_id' in df_csv.columns and 'id' not in df_csv.columns:
@@ -212,3 +211,4 @@ def dashboard():
                         st.error(f"AI assistant error: {e}")
                 except Exception as e:
                     st.error(f"Unexpected error calling AI assistant: {e}")
+
